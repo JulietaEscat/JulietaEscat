@@ -4,7 +4,7 @@ Me especializo en **UX Writing**. Trabajo en la unión entre contenido, diseño 
 
 Diseño microcopy, mensajes de error y flujos de onboarding que guían a las personas usuarias y reducen la fricción.
 
-Mi formación en periodismo y comunicación me aporta una base sólida en investigación cualitativa, que aplico en procesos de UX Research para tomar decisiones de contenido centradas en las personas. 
+Mi formación en periodismo y comunicación me aporta una base sólida en investigación cualitativa, que aplico en procesos de **UX Research** para tomar decisiones de contenido centradas en las personas. 
 
 ---
 
@@ -35,16 +35,18 @@ Mi formación en periodismo y comunicación me aporta una base sólida en invest
 - UX Writing  
 - UX Research  
 - Content Strategy
-- Content Design 
-- Microcopy & Voice & Tone  
-- Diseño de flujos conversacionales  
+- Content Design
+- Diseño de voz y tonos de marca
+- Redacción de microcopy   
+- Diseño de flujos conversacionales
+- Diseño de prototipos de contenido 
 
 ---
 
-## 📬 Contacto
+## 🔗 Redes sociales profesionales
 
-- LinkedIn: (https://www.linkedin.com/in/julietaescat/)
-- Notion: (https://www.notion.so/Hola-Soy-Julieta-Escat-2ef9cee1940880228fe9cb4ab941c164)
+- [LinkedIn](https://www.linkedin.com/in/julietaescat/)
+- [Notion](https://www.notion.so/Hola-Soy-Julieta-Escat-2ef9cee1940880228fe9cb4ab941c164)
 
 <!--
 **JulietaEscat/JulietaEscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

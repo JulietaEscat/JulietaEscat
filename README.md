@@ -20,13 +20,14 @@ Mi formación en periodismo y comunicación me aporta una base sólida en invest
   App de libros académicos para profesionales.  
   🔗 [Ver proyecto](https://www.notion.so/UX-Writing-Legere-App-de-libros-acad-micos-para-profesionales-2ef9cee19408800a9293f1b3f6a45ee3?pvs=21)
 
+- **UX Design & UX Research | ¡A comer!**  
+  App de búsqueda de restaurantes.  
+  🔗 [Ver proyecto](https://www.notion.so/UX-Design-y-UX-Research-A-comer-App-de-b-squeda-de-restaurantes-2ef9cee19408808f92dcee033666f44f?pvs=21)
+
 - **UX Research | Disney Plus**  
   Análisis de la experiencia de visualización en streaming.  
   🔗 [Ver proyecto](https://www.notion.so/UX-Research-Disney-Plus-Experiencia-de-visualizaci-n-en-streaming-2ef9cee1940880df93c8f84f2952b038?pvs=21)
 
-- **UX Design & UX Research | ¡A comer!**  
-  App de búsqueda de restaurantes.  
-  🔗 [Ver proyecto](https://www.notion.so/UX-Design-y-UX-Research-A-comer-App-de-b-squeda-de-restaurantes-2ef9cee19408808f92dcee033666f44f?pvs=21)
 
 ---
 
